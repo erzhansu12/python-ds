@@ -1,13 +1,22 @@
-# 🐍 Python Basics — Solved Problems
+# 🐍 Python & Data Science — My Projects
 
 My solutions to the practice tasks from a Python basics course (modules 15–27).
 The collection goes from the very first programs written in an IDE all the way to
-object-oriented programming, iterators and generators.
+object-oriented programming, iterators and generators — plus my data science projects.
 
 **114 tasks · 13 modules · 107 solved ✅ · 7 in progress ⏳**
 
 > The task statements (in each `README.md`) are in Russian, as in the original course.
 > Each task below has an English title alongside the original one.
+
+## 📊 Data Science projects
+
+| Project | Type |
+|---|---|
+| [🚢 Titanic — Survival Prediction](ds-projects/01_titanic_classic_ml/) | Classic ML · classification |
+| [🎯 YOLO Fine-tuning](ds-projects/02_yolo_fine_tuning/) | Deep learning · object detection |
+
+See [`ds-projects/`](ds-projects/) for details.
 
 ## 📁 Project structure
 
