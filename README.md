@@ -30,7 +30,7 @@ Some tasks also include input data files (`.txt`, `.zip`, `.log`) that the progr
 You only need **Python 3.6+** — no external libraries.
 
 ```bash
-git clone https://github.com/<your-username>/python-ds.git
+git clone https://github.com/erzhansu12/python-ds.git
 cd python-ds/16_Lists/01_list_gen
 python main.py
 ```
