@@ -14,7 +14,8 @@ object-oriented programming, iterators and generators — plus my data science p
 | Project | Type |
 |---|---|
 | [🚢 Titanic — Survival Prediction](ds-projects/01_titanic_classic_ml/) | Classic ML · classification |
-| [🎯 YOLO Fine-tuning](ds-projects/02_yolo_fine_tuning/) | Deep learning · object detection |
+| [🎯 Football Video Object Detection](ds-projects/02_yolo_football_detection/) | Computer vision · YOLO object detection |
+| [✍️ MNIST Digit Classifier](ds-projects/03_mnist_digit_classifier/) | Deep learning · 97.99 % test accuracy |
 
 See [`ds-projects/`](ds-projects/) for details.
 
